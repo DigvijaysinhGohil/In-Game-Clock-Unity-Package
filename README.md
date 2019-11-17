@@ -12,6 +12,9 @@ There are two types of clock analog and digital.
 
 <B>Settings for clock</B>
 
+![Setting](/Screenshot1.png)<BR><BR>
+![Setting](/Screenshot2.png)
+
 <OL>
   <li><B>Clock Type</B>
   <UL>
